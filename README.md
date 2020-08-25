@@ -24,5 +24,4 @@ got the most and the least downloads. What is the percentage increase
 or decrease that the apps have got over the period of three years. 
 7) Gives us the study on positive and negative reviews given for a particular app using a pie Chart.
 
-
 Make sure all these files are in the same folder.
