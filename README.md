@@ -17,3 +17,20 @@ e) More than 5000000
 7) Percentage positive and negative reviews given for a particular app using a pie Chart.
 
 
+# Requirements 
+You must have Python installed on your computer.
+Tkinter is default toolkit so it will be on your computer once you installed python.  
+**Python Libraries Required**
+Pandas
+Matplotlib
+Seaborn
+scikit learn
+Pillow
+numpy
+
+# Run:
+1.Download all the files in one folder.
+2. Run the "playstore.py" python code.
+
+_For closing the application, simply close the window and the application will get closed._
+
